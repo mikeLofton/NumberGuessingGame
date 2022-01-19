@@ -1,0 +1,13 @@
+while (!gameOver)
+{
+	Tell user to think of a number within range
+
+	Select random number within range
+
+	if (number == userNum)
+		gameOver;
+	else
+		Is userNum higher or lower than number?
+		Update range;
+	
+}
